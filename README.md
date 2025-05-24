@@ -2,7 +2,8 @@
 his project uses *machine learning* and *computer vision* techniques to analyze videos and detect potential copyright violations. It aims to help content creators by providing insights into whether their clips might trigger copyright claims based on visual or audio similarities with existing media.
  
 
-code.
+code. 
+
 import cv2
 import numpy as np
 from skimage.metrics import structural_similarity as ssim
